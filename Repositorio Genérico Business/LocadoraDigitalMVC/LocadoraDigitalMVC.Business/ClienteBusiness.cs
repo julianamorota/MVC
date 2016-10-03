@@ -1,0 +1,47 @@
+﻿using LocadoraDigitalMVC.IBusiness;
+using LocadoraDigitalMVC.IRepository;
+using LocadoraDigitalMVC.Entities;
+using System.Collections.Generic;
+
+namespace LocadoraDigitalMVC.Business
+{
+    public class ClienteBusiness : IClienteBusiness
+    {
+        #region dependency injection repository
+        private readonly IClientRepository ClienteRepository;
+
+        public ClienteBusiness(IClientRepository _ClienteRepository)
+        {
+            this.ClienteRepository = _ClienteRepository;
+        }
+        #endregion
+
+        public Cliente Get(int id)
+        {
+            return ClienteRepository.Get(id);
+        }
+        public Cliente Create(Cliente entity)
+        {
+            return ClienteRepository.Create(entity);
+        }
+        public Cliente Update(Cliente entity)
+        {
+            return ClienteRepository.Update(entity);
+        }
+        public Cliente Delete(Cliente entity)
+        {
+            return ClienteRepository.Delete(entity);
+        }
+        public IEnumerable<Cliente> GetByFilter(string nome, string cpf)
+        {
+            return ClienteRepository.GetByFilter(x => x.Nome.Contains(nome) && x.Cpf.Contains(cpf));
+        }
+        public IEnumerable<Cliente> GetAll()
+        {
+            return ClienteRepository.GetAll();
+        }
+
+
+
+    }
+}

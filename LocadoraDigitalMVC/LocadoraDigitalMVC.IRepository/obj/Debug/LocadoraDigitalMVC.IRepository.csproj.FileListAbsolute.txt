@@ -1,0 +1,14 @@
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IRepository\bin\Debug\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IRepository\bin\Debug\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IRepository\bin\Debug\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IRepository\bin\Debug\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IRepository\obj\Debug\LocadoraDigitalMVC.IRepository.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IRepository\obj\Debug\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IRepository\obj\Debug\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.IRepository\bin\Debug\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.IRepository\bin\Debug\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.IRepository\bin\Debug\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.IRepository\bin\Debug\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.IRepository\obj\Debug\LocadoraDigitalMVC.IRepository.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.IRepository\obj\Debug\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.IRepository\obj\Debug\LocadoraDigitalMVC.IRepository.pdb

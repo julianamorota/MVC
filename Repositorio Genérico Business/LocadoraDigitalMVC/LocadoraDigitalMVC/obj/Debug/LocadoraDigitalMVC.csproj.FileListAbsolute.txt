@@ -1,0 +1,467 @@
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll.config
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Antlr3.Runtime.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Newtonsoft.Json.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Helpers.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Mvc.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Optimization.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\WebGrease.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Helpers.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Mvc.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Optimization.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Antlr3.Runtime.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Newtonsoft.Json.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll.config
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Antlr3.Runtime.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Newtonsoft.Json.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.Helpers.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.Mvc.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.Optimization.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.WebPages.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\WebGrease.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.Helpers.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.Mvc.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.Optimization.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.WebPages.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Antlr3.Runtime.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Newtonsoft.Json.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll.config
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Antlr3.Runtime.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Newtonsoft.Json.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.Helpers.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.Mvc.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.Optimization.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.WebPages.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\WebGrease.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.Helpers.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.Mvc.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.Optimization.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.WebPages.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Antlr3.Runtime.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Newtonsoft.Json.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll.config
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Antlr3.Runtime.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Newtonsoft.Json.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.Helpers.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.Mvc.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.Optimization.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.WebPages.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\WebGrease.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.Helpers.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.Mvc.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.Optimization.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.WebPages.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Antlr3.Runtime.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Newtonsoft.Json.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Business.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IBusiness.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Business.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IBusiness.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll.config
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Antlr3.Runtime.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Business.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IBusiness.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Newtonsoft.Json.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Helpers.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Mvc.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Optimization.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\WebGrease.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Business.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IBusiness.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Helpers.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Mvc.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Optimization.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Antlr3.Runtime.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Newtonsoft.Json.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll.config
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Antlr3.Runtime.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Business.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IBusiness.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Newtonsoft.Json.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Helpers.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Mvc.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Optimization.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\WebGrease.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Business.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IBusiness.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Helpers.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Mvc.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Optimization.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Antlr3.Runtime.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Newtonsoft.Json.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositório Genérico\LocadoraDigitalMVC\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll.config
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Antlr3.Runtime.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Business.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IBusiness.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Newtonsoft.Json.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Owin.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Helpers.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Mvc.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Optimization.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\WebGrease.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Business.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IBusiness.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Helpers.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Mvc.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Optimization.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Antlr3.Runtime.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Newtonsoft.Json.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Repositorio Genérico Business\LocadoraDigitalMVC\LocadoraDigitalMVC\obj\Debug\LocadoraDigitalMVC.pdb

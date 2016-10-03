@@ -1,0 +1,15 @@
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Entities\bin\Debug\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Entities\bin\Debug\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Entities\obj\Debug\LocadoraDigitalMVC.Entities.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Entities\obj\Debug\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Entities\obj\Debug\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Entities\bin\Debug\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Entities\bin\Debug\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Entities\obj\Debug\LocadoraDigitalMVC.Entities.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Entities\obj\Debug\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Entities\obj\Debug\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Entities\bin\Debug\LocadoraDigitalMVC.Entities.dll.config
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Entities\bin\Debug\EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Entities\bin\Debug\EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Entities\bin\Debug\EntityFramework.SqlServer.xml

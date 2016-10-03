@@ -1,0 +1,7 @@
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IBusiness\bin\Debug\LocadoraDigitalMVC.IBusiness.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IBusiness\bin\Debug\LocadoraDigitalMVC.IBusiness.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IBusiness\obj\Debug\LocadoraDigitalMVC.IBusiness.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IBusiness\obj\Debug\LocadoraDigitalMVC.IBusiness.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IBusiness\obj\Debug\LocadoraDigitalMVC.IBusiness.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IBusiness\bin\Debug\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.IBusiness\bin\Debug\LocadoraDigitalMVC.Entities.pdb

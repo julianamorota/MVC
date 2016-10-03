@@ -1,0 +1,65 @@
+﻿@model LocadoraDigitalMVC.Entities.Devolucao
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Devolucao</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Locacao.Filme.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Locacao.Filme.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Locacao.Cliente.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Locacao.Cliente.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Locacao.dtLocacao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Locacao.dtLocacao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Locacao.dtDevolucao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Locacao.dtDevolucao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dtDev)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dtDev)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Multa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Multa)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

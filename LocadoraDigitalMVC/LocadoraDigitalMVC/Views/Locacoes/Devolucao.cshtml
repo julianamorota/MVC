@@ -1,0 +1,56 @@
+﻿@model LocadoraDigitalMVC.Entities.Locacao
+
+@{
+    ViewBag.Title = "Devolucao";
+}
+
+<h2>Devolução</h2>
+
+<h3>Deseja realmente cadastrar a devolução desse filme?</h3>
+<div>
+    <h4>Locacao</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Cliente.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cliente.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Filme.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Filme.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dtLocacao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dtLocacao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dtDevolucao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dtDevolucao)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

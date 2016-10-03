@@ -1,0 +1,73 @@
+﻿@model IEnumerable<LocadoraDigitalMVC.Entities.Devolucao>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @using (Html.BeginForm("Index", "Devolucoes", FormMethod.Get))
+    {
+    <p>
+        Cliente: @Html.DropDownList("nomeCliente", "All")
+        Filme: @Html.DropDownList("nomeFilme", "All")
+        Locação: @Html.TextBox("dtLocacao")
+        Devolução: @Html.TextBox("dtDevolucao")
+        <br />
+        <input type="submit" value="Buscar" />
+    </p>
+    }
+
+    </p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Locacao.Filme.Nome)
+        </th>
+        <th>
+            Cliente
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Locacao.dtLocacao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Locacao.dtDevolucao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dtDev)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Multa)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Locacao.Filme.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Locacao.Cliente.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Locacao.dtLocacao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Locacao.dtDevolucao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dtDev)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Multa)
+        </td>
+        <td>
+            @Html.ActionLink("Details", "Details", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

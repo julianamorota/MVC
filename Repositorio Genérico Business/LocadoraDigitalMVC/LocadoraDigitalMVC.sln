@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocadoraDigitalMVC", "LocadoraDigitalMVC\LocadoraDigitalMVC.csproj", "{2323E584-A01D-44B9-BDD3-C0AAAF5DBE28}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{BC5CE915-7279-464B-8351-23868F6D0B47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces", "Interfaces", "{91EDE933-EAC0-40B9-AF90-CF08773030AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocadoraDigitalMVC.IRepository", "LocadoraDigitalMVC.IRepository\LocadoraDigitalMVC.IRepository.csproj", "{E6EBBEF3-BE98-4F44-AB0D-FD6811DB2193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocadoraDigitalMVC.Entities", "LocadoraDigitalMVC.Entities\LocadoraDigitalMVC.Entities.csproj", "{A2F5DCA2-151E-4998-81B4-07A57013B29D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocadoraDigitalMVC.Repository.EntityFramework", "LocadoraDigitalMVC.Repository.EntityFramework\LocadoraDigitalMVC.Repository.EntityFramework.csproj", "{70172D2A-7915-4AF7-BE1F-B65D47425E51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocadoraDigitalMVC.IBusiness", "LocadoraDigitalMVC.IBusiness\LocadoraDigitalMVC.IBusiness.csproj", "{00BB2258-4010-4AC0-9A39-17282D06B1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocadoraDigitalMVC.Business", "LocadoraDigitalMVC.Business\LocadoraDigitalMVC.Business.csproj", "{1E92F056-6727-460B-8D06-8D6219BF732A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2323E584-A01D-44B9-BDD3-C0AAAF5DBE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2323E584-A01D-44B9-BDD3-C0AAAF5DBE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2323E584-A01D-44B9-BDD3-C0AAAF5DBE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2323E584-A01D-44B9-BDD3-C0AAAF5DBE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6EBBEF3-BE98-4F44-AB0D-FD6811DB2193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6EBBEF3-BE98-4F44-AB0D-FD6811DB2193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6EBBEF3-BE98-4F44-AB0D-FD6811DB2193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6EBBEF3-BE98-4F44-AB0D-FD6811DB2193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F5DCA2-151E-4998-81B4-07A57013B29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F5DCA2-151E-4998-81B4-07A57013B29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F5DCA2-151E-4998-81B4-07A57013B29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F5DCA2-151E-4998-81B4-07A57013B29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70172D2A-7915-4AF7-BE1F-B65D47425E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70172D2A-7915-4AF7-BE1F-B65D47425E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70172D2A-7915-4AF7-BE1F-B65D47425E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70172D2A-7915-4AF7-BE1F-B65D47425E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BB2258-4010-4AC0-9A39-17282D06B1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BB2258-4010-4AC0-9A39-17282D06B1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BB2258-4010-4AC0-9A39-17282D06B1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BB2258-4010-4AC0-9A39-17282D06B1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E92F056-6727-460B-8D06-8D6219BF732A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E92F056-6727-460B-8D06-8D6219BF732A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E92F056-6727-460B-8D06-8D6219BF732A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E92F056-6727-460B-8D06-8D6219BF732A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{91EDE933-EAC0-40B9-AF90-CF08773030AD} = {BC5CE915-7279-464B-8351-23868F6D0B47}
+		{E6EBBEF3-BE98-4F44-AB0D-FD6811DB2193} = {91EDE933-EAC0-40B9-AF90-CF08773030AD}
+		{A2F5DCA2-151E-4998-81B4-07A57013B29D} = {BC5CE915-7279-464B-8351-23868F6D0B47}
+		{70172D2A-7915-4AF7-BE1F-B65D47425E51} = {BC5CE915-7279-464B-8351-23868F6D0B47}
+		{00BB2258-4010-4AC0-9A39-17282D06B1B5} = {91EDE933-EAC0-40B9-AF90-CF08773030AD}
+		{1E92F056-6727-460B-8D06-8D6219BF732A} = {BC5CE915-7279-464B-8351-23868F6D0B47}
+	EndGlobalSection
+EndGlobal

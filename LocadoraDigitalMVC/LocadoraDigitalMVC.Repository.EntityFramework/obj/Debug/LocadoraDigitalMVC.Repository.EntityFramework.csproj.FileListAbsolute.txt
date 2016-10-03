@@ -1,0 +1,56 @@
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\obj\Debug\LocadoraDigitalMVC.Repository.EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\obj\Debug\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\obj\Debug\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Repository.EntityFramework.dll.config
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Repository.EntityFramework.dll.config
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\obj\Debug\LocadoraDigitalMVC.Repository.EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\obj\Debug\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Cliente - Copia\LocadoraDigitalMVC.Repository.EntityFramework\obj\Debug\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Repository.EntityFramework.dll.config
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\obj\Debug\LocadoraDigitalMVC.Repository.EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\obj\Debug\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\LocadoraDigitalMVC - Copia (4)\LocadoraDigitalMVC.Repository.EntityFramework\obj\Debug\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Repository.EntityFramework.dll.config
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Repository.EntityFramework.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Entities.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.IRepository.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.Entities.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\LocadoraDigitalMVC.IRepository.pdb
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\obj\Debug\LocadoraDigitalMVC.Repository.EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\obj\Debug\LocadoraDigitalMVC.Repository.EntityFramework.dll
+C:\Users\juliana.morota\Desktop\Projetos ASP.NET\MVC\Locadora com simple injector\LocadoraDigitalMVC\LocadoraDigitalMVC\LocadoraDigitalMVC.Repository.EntityFramework\obj\Debug\LocadoraDigitalMVC.Repository.EntityFramework.pdb
